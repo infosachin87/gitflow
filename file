@@ -21,5 +21,6 @@ int main()
     int result = sum(x, y);
     printf("Sum of %d and %d = %d ", x, y, result);
  printf(" Thank you")
+ printf(" Thank you")
     return 0;
 }
